@@ -1,0 +1,45 @@
+header {
+	background:#2c3e50;
+	color:#fff;
+}
+footer {
+	background:#2c3e50;
+	color:#fff;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+a{   
+ text-decoration:none;   
+}  
+.color1 {
+	background: #a10054;
+	color:#fff;
+}
+.color2 {
+	background: #0b3142;
+	color:#fff;
+}
+.color3{
+	background:#2866ab;
+	color:#fff;
+}
+.color4 {
+	background:#e70000;
+	color:#fff;
+}	
+.color5 {
+	background:#ea9215;
+	color:#fff;
+}
+.color6{
+	background: #fff;
+}
+.color7{
+	background:#D7D3D3;
+	/*color:#fff;*/
+}
+a{
+	text-decoration:none;
+}
